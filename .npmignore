@@ -1,0 +1,10 @@
+.husky
+node_modules
+.eslintrc.json
+.gitignore
+.npmignore
+.prettierignore
+.prettierrc.json
+CONTRIBUTING.md
+*.tgz
+package-lock.json
