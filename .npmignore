@@ -1,6 +1,7 @@
 .husky
 node_modules
 .eslintrc.json
+.github
 .gitignore
 .npmignore
 .prettierignore
@@ -8,3 +9,4 @@ node_modules
 CONTRIBUTING.md
 *.tgz
 package-lock.json
+README.md

@@ -1,7 +1,7 @@
 {
   "name": "ensure-with",
   "description": "ensure-with is a command-line utility to ensure a file exists before running a command",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.mjs",
   "type": "module",
   "bin": {
